@@ -3,7 +3,7 @@ Just Java codes for Dynamic Programming Playlist on **Aditya Verma's** channel.
  
 Channel Link:- https://youtube.com/c/AdityaVermaTheProgrammingLord 
 
-Youtube link https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+DP playlist link https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
  
 Please do it in order 
 ## 0-1 Knapsack 
