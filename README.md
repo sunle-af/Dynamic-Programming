@@ -14,9 +14,16 @@ Please do it in order
 5. Count the number of subset with a given difference 
 6. Target Sum
 ## Unbounded Knapsack 
+1. Rod Cutting Problem
+2. Coin Change.
+3. Coin Chane II.
 ##  LCS 
 ## Matrix Chain Multiplication
-1. 
+1. MCM
+2. Evalutate Expression to True / Boolean Parenthesis
+3. Min/Max Value of an Expression
+4. Scamble String
+5. Egg Dropping Problem.
 ## DP on trees
 
 
