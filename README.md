@@ -18,6 +18,17 @@ Please do it in order
 2. Coin Change.
 3. Coin Chane II.
 ##  LCS 
+1. Longest Common Subsequence
+2. Longest Common Substring
+3. Printing Longest Common Subsequence
+4. Shortest Supersequence
+5. Minimum number of deletions and insertions to transform one string into another
+6. Longest Palindromic Subsequence 
+7. Minimum deletion required to make String palindrome
+8. Print Shortest common Subsequence
+9. Longest Repeating Subsequence
+10. Sequence Pattern Matching
+11. Minimum No. of Insertion and Deletion to make String Palindrome
 ## Matrix Chain Multiplication
 1. MCM
 2. Evalutate Expression to True / Boolean Parenthesis
